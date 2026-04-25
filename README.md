@@ -9,7 +9,7 @@ Requires `ffmpeg` and `ffprobe` to be in path.
 ## Usage
 Installation:
 ```shell
-pip install https://github.com/OskarZyg/realtimertsp.git
+pip install https://github.com/DroneTastic-RHUL/realtimertsp.git
 ```
 
 CLI:
